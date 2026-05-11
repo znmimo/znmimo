@@ -1,5 +1,5 @@
 <p>
-  Hello There! <em><b> I'm Zahida Nur Mimo </b></em>, a Test Automation Engineer. I enjoy learning new technologies. Now I'm working at some little and fun projects to put in practice my knowledge about Selenium, Playwright, Jmeter and more.
+  Hello There! <em><b> I'm Zahida Nur Mimo </b></em>, a Test Automation Engineer. I enjoy learning new technologies. Now I'm working at some little and fun projects to put in practice my knowledge about Selenium, Jmeter and more.
 </p>
 
 <h2>Statistics</h2>
